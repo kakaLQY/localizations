@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+	<file original="" datatype="plaintext" xml:space="preserve" source-language="en" target-language="en">
+		<header>
+			<tool tool-id="lokalise.co" tool-name="Lokalise"/>
+		</header>
+		<body>
+			<trans-unit id="main.cool">
+				<source>This string belongs to iOS, however you can link other platforms with a single click!</source>
+				<target>This string belongs to iOS, however you can link other platforms with a single click!</target>
+			</trans-unit>
+			<trans-unit id="/app.users.active:dict/NSStringLocalizedFormatKey:dict/:string">
+				<source>%#@format@</source>
+				<target>%#@format@</target>
+			</trans-unit>
+			<trans-unit id="/app.users.active:dict/format:dict/one:dict/:string">
+				<source>Just one user online</source>
+				<target>Just one user online</target>
+			</trans-unit>
+			<trans-unit id="/app.users.active:dict/format:dict/other:dict/:string">
+				<source>There are %d users online</source>
+				<target>There are %d users online</target>
+			</trans-unit>
+			<trans-unit id="main.country">
+				<source>Select country</source>
+				<target>Select country</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
